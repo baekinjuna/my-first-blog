@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+injuntest
+db.sqllite3
+/static
+.DS_Store
